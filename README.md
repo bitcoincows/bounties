@@ -1,2 +1,6 @@
 # Bitcoin Cows Bounties
-Repository to start bounties for Bitcoin Cows. (Discord Server: https://discord.gg/onchainbirds)
+
+All open bounties will be posted (here)[https://github.com/bitcoincows/bounties/issues].
+
+# List of solved bounties
+-
