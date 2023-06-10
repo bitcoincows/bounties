@@ -8,6 +8,8 @@ You will receive the bounty in crypto currency if you are the first to:
 - Test cases included that are sufficient to evaluate the project
 - You license your repository open source like Public Domain, MIT (ask if you need to use other licenses due to software dependency)
 
+You will receive the bounty if 2 out of 4 team members judge your work as sufficient and you are the first to do so.
+
 # Suggest a new bounty
 Add a new issue under the "bounty idea" tag. Suggest how much funding would be needed and wether you want to contribute yourself to the bounty or not. Once the first bounty reward is added by the team or others it will be added under the "bounty" tag.
 
