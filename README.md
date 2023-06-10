@@ -5,7 +5,7 @@ Open bounties can be found [here](https://github.com/bitcoincows/bounties/issues
 # Solving Bounties
 You will receive the bounty in crypto currency if you are the first to:
 - Provide a working Github Repository
-- Test Cases included that are sufficient to evaluate the project
+- Test cases included that are sufficient to evaluate the project
 - You license your repository open source like Public Domain, MIT (ask if you need to use other licenses due to software dependency)
 
 # Suggest a new bounty
