@@ -1,6 +1,6 @@
 # Bitcoin Cows Bounties
 
-Open bounties can be found [here](https://github.com/bitcoincows/bounties/issues). Bounties may be raised over time.
+Open bounties can be found [here](https://github.com/bitcoincows/bounties/issues). Bounties may be raised over time and can be used for all kind of things, even programming unrelated like creating memes.
 
 # Solving Bounties
 You will receive the bounty in crypto currency if you are the first to:
